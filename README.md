@@ -6,21 +6,21 @@ This project demonstrates a Python workflow for generating synthetic archival fo
 It was developed as a programming exercise related to archival metadata organisation.
 
 Objectives
-	•	Generate 500 unique folder identifiers.
-	•	Generate 50,000 synthetic JPEG filenames.
-	•	Group filenames into folders using Python dictionaries.
-	•	Display a sample of the structured output.
+	• Generate 500 unique folder identifiers.
+	• Generate 50,000 synthetic JPEG filenames.
+	• Group filenames into folders using Python dictionaries.
+	• Display a sample of the structured output.
 
 Tools Used
-	•	Python 3
-	•	collections.defaultdict
+	• Python 3
+	• collections.defaultdict
 
 How It Works
-	•	Generate synthetic folder identifiers.	
-	•	Create 100 JPEG filenames for each folder.	
-	•	Extract the folder identifier from each filename.	
-	•	Store filenames in the corresponding folder bucket.	
-	•	Print a sample of the results.	
+	• Generate synthetic folder identifiers.	
+	• Create 100 JPEG filenames for each folder.	
+	• Extract the folder identifier from each filename.	
+	• Store filenames in the corresponding folder bucket.	
+	• Print a sample of the results.	
 
 How to Run
 Ensure Python 3 is installed, then run:
